@@ -1,6 +1,8 @@
+### 🔗 [Live Demo](https://farhaaanz.github.io/Shunao)
+
 # 🗣️ Shunao – Text to Speech Web App
 
-**Shunao** (শুনাও) is a simple and sleek text-to-speech (TTS) generator built using vanilla HTML, CSS, and JavaScript. The name comes from the Bengali word "শুনাও", meaning "to tell". This project allows users to type or paste text, choose from available system voices, and hear the spoken version out loud.
+**Shunao** (শুনাও) is a simple and sleek text-to-speech (TTS) generator built using vanilla HTML, CSS, and JavaScript. The name comes from the Bengali word "শুনাও", meaning "tell me". This project allows users to type or paste text, choose from available system voices, and hear the spoken version out loud.
 
 ## 🔧 Tools & Technologies Used
 
